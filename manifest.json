@@ -1,0 +1,9 @@
+{
+  "id": "html-direct-reader",
+  "name": "HTML Direct Reader",
+  "version": "1.8.7",
+  "minAppVersion": "1.1.16",
+  "description": "Bypass cross-origin limits to render in-vault .html in Obsidian by inlining CSS/images/scripts. In-vault .html/.md link interception with back/forward, in-page search, zoom, outline, fullscreen, scroll restore. Desktop & mobile.",
+  "author": "XiaoyiHR",
+  "isDesktopOnly": false
+}
