@@ -1,6 +1,4 @@
-# HTML Direct Reader · `html-direct-reader`（HTML 直接预览）
-
-**English**
+# HTML Direct Reader （HTML 直接预览）
 
 HTML Direct Reader renders in-vault `.html` files directly inside Obsidian. Because Obsidian's `app://local` origin differs from the preview page, browsers normally refuse to load the relative CSS, images and fonts an HTML file references. This plugin reads those assets on the Node side and inlines them as data URIs, so documents display exactly as authored — no local server, no cross-origin errors.
 
