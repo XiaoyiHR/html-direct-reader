@@ -16,25 +16,9 @@ HTML Direct Reader renders in-vault `.html` files directly inside Obsidian. Beca
 
 > 一句话（中文）：让 Obsidian 里点开 `.html` 就像在浏览器里打开一样——库内的图片 / CSS / 字体 / 脚本全部正常显示，不用切出去，也不用看代码视图。
 
-> **上传须知**：本文件上传到仓库根目录时，请改名为 **`README.md`**。英文段会被显示在商店 listing 顶部，方便英文审核者与世界各地的用户理解。
-
 ## Installation / 安装
 
 **English**: Install from the Obsidian community store: Settings → Community plugins → turn off Safe mode → Browse → search **HTML Direct Reader** → Install → Enable. For manual install, download `main.js`, `manifest.json` and `styles.css` from the latest GitHub release, put them into your vault's `.obsidian/plugins/html-direct-reader/` folder, restart Obsidian and enable the plugin.
-
-### 方式一：官方社区商店（推荐，最省心）
-
-1. 打开 Obsidian → 设置 → 第三方插件 → 关闭"安全模式"。
-2. 浏览 → 搜索 **HTML Direct Reader**（显示名，或搜 ID `html-direct-reader`）→ 安装 → 启用。
-3. 国内若商店加载慢，可先装 **OpenPlug** 等加速插件，再走上面步骤。
-
-> 上架后粉丝只需这一条路，无需翻墙、无需 GitHub。
-
-### 方式二：手动安装（上架前的过渡方案）
-
-1. 从发布页下载 `main.js` / `manifest.json` / `styles.css` 三个文件。
-2. 打开你的 vault 文件夹 → `.obsidian/plugins/`，新建文件夹 `html-direct-reader/`。
-3. 把三个文件放进去 → 重启 Obsidian → 设置 → 第三方插件 → 启用。
 
 ## Usage / 快速开始
 
